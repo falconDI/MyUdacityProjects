@@ -1,5 +1,5 @@
 # Documentation for Sparkify ETL Imposed Database for Song Analytics<br>
-#### Ethan Coolidge | Data Modeling Project | WGU-Data Analist<br>
+#### Ethan Coolidge | Data Modeling Project | WGU-Data Analyst<br>
 
 ___
 ---
