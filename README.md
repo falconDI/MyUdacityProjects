@@ -1,6 +1,9 @@
 # MyUdacityProjects
-Projects completed while studying my Udacity Data Analytics Nanodegree through Western Govornors University
+Projects completed while studying my Udacity Data Analytics Nanodegree through Western Govornors University (WGU)
 ***
+## Udacity Nanodegree Through WGU
+Udacity is a for-profit online education organization that offeres nanodegrees in various IT fields of current interest. WGU has partnered with Udacity to provide Data Analytics training for WGU's Data Management/Data Analytics Bachalor of Science program. There project represent all the educational areas covered in the nanodegree material. Each project represents competency in that area of Data Analytics.
+
 ## Projects
 ### Investigate a Dataset Project
 The Project covers the introductory basics for loading, wrangling, and analysing data.
