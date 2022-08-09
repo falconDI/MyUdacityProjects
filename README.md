@@ -39,6 +39,6 @@ The machine learning is split into two projects; Supervised and Unsupervised Mac
 See [Machine Learning](https://github.com/falconDI/MyUdacityProjects/tree/main/MachineLearning)
 
 ### Build Data Dashboard
-This project does use and code but Tableau to build vizulizations from 2015 United States census data. I inclued it because it is a part of the Udacity Nanodegree.
+This project does use code, but Tableau is used to build vizulizations from 2015 United States census data. I inclued it because it is a part of the Udacity Nanodegree.
 
 See [Unemployment Accross the US: 2015](https://public.tableau.com/app/profile/ethan.coolidge/viz/UnemploymentAccrosstheUS2015/Story1)
